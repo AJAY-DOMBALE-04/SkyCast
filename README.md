@@ -1,5 +1,5 @@
 
-# weather appliaction
+ # SkyCast  (weather appliaction)
    weather appliaction is a React-based application that fetches and displays real-time weather data for a given location using the OpenWeatherMap API. Key features include:
 
 Location-Based Weather: Fetches weather data based on geographic coordinates (lat and lon).
