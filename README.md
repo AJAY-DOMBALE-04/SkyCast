@@ -1,13 +1,6 @@
-NAME: AJAY BAPU DOMBALE
-COMPANY :CODTECH IT SOLUTIONS
-ID :CTO8DS9456
-DOMAIN : REACT.JS
-DURATION : OCTOBER TO NOVEMBER 2024
 
-
-![Uploading Capture.PNG…]()
-
-weather app is a React-based application that fetches and displays real-time weather data for a given location using the OpenWeatherMap API. Key features include:
+# weather appliaction
+   weather appliaction is a React-based application that fetches and displays real-time weather data for a given location using the OpenWeatherMap API. Key features include:
 
 Location-Based Weather: Fetches weather data based on geographic coordinates (lat and lon).
 Data Display: Shows temperature (°C and °F), humidity, and weather conditions.
